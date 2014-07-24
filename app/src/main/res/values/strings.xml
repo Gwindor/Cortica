@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CorticaApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_take_image">Take image</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_photo_details">PhotoDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
